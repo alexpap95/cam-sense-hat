@@ -23,6 +23,7 @@ PC
 connected a keyboard, mouse or monitor to it. (optional)
 
 Initialisation Guide
+
 0. Move css, fonts, js, sass folders into one "static" folder (/static/css , /static/fonts, etc)
 1. Copy MQTT_Pub(rpi).py on the RPI
 2. Run cd copied_directory , to navigate to the file
